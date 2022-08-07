@@ -9,6 +9,6 @@
 - Elementor Pro
 - Astra Pro
 - WP Database Backup
-- file Manager
+- File Manager
 - More
 
