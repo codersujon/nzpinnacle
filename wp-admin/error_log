@@ -1,0 +1,327 @@
+[29-Jul-2022 11:29:01 UTC] WordPress database error Unknown column 'nz_' in 'field list' for query SELECT nz_
+[30-Jul-2022 01:00:33 UTC] Source - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/hero-bg.jpg
+[30-Jul-2022 01:00:33 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/hero-bg.jpg
+[30-Jul-2022 01:00:33 UTC] Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-07-wip\/wp-content\/uploads\/sites\/688\/2020\/09\/hero-bg.jpg","id":0}
+[30-Jul-2022 01:00:33 UTC] hero-bg.jpg
+[30-Jul-2022 01:00:33 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hero-bg.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hero-bg.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 01:00:33 UTC] {"post_title":"hero-bg.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hero-bg.jpg"}
+[30-Jul-2022 01:00:36 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/hero-bg.jpg
+[30-Jul-2022 01:00:36 UTC] Source - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/hiking-v1.jpg
+[30-Jul-2022 01:00:36 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/hiking-v1.jpg
+[30-Jul-2022 01:00:36 UTC] Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-07-wip\/wp-content\/uploads\/sites\/688\/2020\/09\/hiking-v1.jpg","id":0}
+[30-Jul-2022 01:00:36 UTC] hiking-v1.jpg
+[30-Jul-2022 01:00:36 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hiking-v1.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hiking-v1.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 01:00:36 UTC] {"post_title":"hiking-v1.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hiking-v1.jpg"}
+[30-Jul-2022 01:00:36 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/hiking-v1.jpg
+[30-Jul-2022 01:00:36 UTC] Source - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/walking-v1.jpg
+[30-Jul-2022 01:00:36 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/walking-v1.jpg
+[30-Jul-2022 01:00:36 UTC] Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-07-wip\/wp-content\/uploads\/sites\/688\/2020\/09\/walking-v1.jpg","id":0}
+[30-Jul-2022 01:00:37 UTC] walking-v1.jpg
+[30-Jul-2022 01:00:37 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/walking-v1.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/walking-v1.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 01:00:37 UTC] {"post_title":"walking-v1.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/walking-v1.jpg"}
+[30-Jul-2022 01:00:37 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/walking-v1.jpg
+[30-Jul-2022 01:00:37 UTC] Source - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/section-bg-img.jpg
+[30-Jul-2022 01:00:37 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/section-bg-img.jpg
+[30-Jul-2022 01:00:37 UTC] Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-07-wip\/wp-content\/uploads\/sites\/688\/2020\/09\/section-bg-img.jpg","id":0}
+[30-Jul-2022 01:00:38 UTC] section-bg-img.jpg
+[30-Jul-2022 01:00:38 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/section-bg-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/section-bg-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 01:00:38 UTC] {"post_title":"section-bg-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/section-bg-img.jpg"}
+[30-Jul-2022 01:00:38 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/section-bg-img.jpg
+[30-Jul-2022 01:00:38 UTC] Source - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/image-1.jpg
+[30-Jul-2022 01:00:38 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/image-1.jpg
+[30-Jul-2022 01:00:38 UTC] Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-07-wip\/wp-content\/uploads\/sites\/688\/2020\/09\/image-1.jpg","id":0}
+[30-Jul-2022 01:00:39 UTC] image-1.jpg
+[30-Jul-2022 01:00:39 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/image-1.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/image-1.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 01:00:39 UTC] {"post_title":"image-1.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/image-1.jpg"}
+[30-Jul-2022 01:00:39 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/image-1.jpg
+[30-Jul-2022 01:00:39 UTC] Source - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/snow-1.jpg
+[30-Jul-2022 01:00:39 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/snow-1.jpg
+[30-Jul-2022 01:00:39 UTC] Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-07-wip\/wp-content\/uploads\/sites\/688\/2020\/09\/snow-1.jpg","id":0}
+[30-Jul-2022 01:00:39 UTC] snow-1.jpg
+[30-Jul-2022 01:00:39 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/snow-1.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/snow-1.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 01:00:39 UTC] {"post_title":"snow-1.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/snow-1.jpg"}
+[30-Jul-2022 01:00:39 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/snow-1.jpg
+[30-Jul-2022 01:00:39 UTC] Source - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/mountain-3.jpg
+[30-Jul-2022 01:00:39 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/mountain-3.jpg
+[30-Jul-2022 01:00:39 UTC] Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-07-wip\/wp-content\/uploads\/sites\/688\/2020\/09\/mountain-3.jpg","id":0}
+[30-Jul-2022 01:00:40 UTC] mountain-3.jpg
+[30-Jul-2022 01:00:40 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/mountain-3.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/mountain-3.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 01:00:40 UTC] {"post_title":"mountain-3.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/mountain-3.jpg"}
+[30-Jul-2022 01:00:40 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/mountain-3.jpg
+[30-Jul-2022 01:00:40 UTC] Source - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/snow.jpg
+[30-Jul-2022 01:00:40 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-07-wip/wp-content/uploads/sites/688/2020/09/snow.jpg
+[30-Jul-2022 01:00:40 UTC] Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-07-wip\/wp-content\/uploads\/sites\/688\/2020\/09\/snow.jpg","id":0}
+[30-Jul-2022 01:00:40 UTC] snow.jpg
+[30-Jul-2022 01:00:40 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/snow.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/snow.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 01:00:40 UTC] {"post_title":"snow.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/snow.jpg"}
+[30-Jul-2022 01:00:40 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/snow.jpg
+[30-Jul-2022 05:38:22 UTC] Imported Form Contact Form
+[30-Jul-2022 05:38:24 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/hero-section-banner.jpg
+[30-Jul-2022 05:38:24 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/hero-section-banner.jpg
+[30-Jul-2022 05:38:24 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/hero-section-banner.jpg","id":0}
+[30-Jul-2022 05:38:25 UTC] hero-section-banner.jpg
+[30-Jul-2022 05:38:25 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hero-section-banner.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hero-section-banner.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:25 UTC] {"post_title":"hero-section-banner.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hero-section-banner.jpg"}
+[30-Jul-2022 05:38:26 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/hero-section-banner.jpg
+[30-Jul-2022 05:38:26 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/bar.png
+[30-Jul-2022 05:38:26 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/bar.png
+[30-Jul-2022 05:38:26 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/bar.png","id":0}
+[30-Jul-2022 05:38:26 UTC] bar.png
+[30-Jul-2022 05:38:26 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/bar.png","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/bar.png","type":"image\/png","error":false}
+[30-Jul-2022 05:38:26 UTC] {"post_title":"bar.png","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/bar.png"}
+[30-Jul-2022 05:38:26 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/bar.png
+[30-Jul-2022 05:38:26 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/home-cafe.png
+[30-Jul-2022 05:38:26 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/home-cafe.png
+[30-Jul-2022 05:38:26 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/home-cafe.png","id":0}
+[30-Jul-2022 05:38:27 UTC] home-cafe.png
+[30-Jul-2022 05:38:27 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/home-cafe.png","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/home-cafe.png","type":"image\/png","error":false}
+[30-Jul-2022 05:38:27 UTC] {"post_title":"home-cafe.png","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/home-cafe.png"}
+[30-Jul-2022 05:38:27 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/home-cafe.png
+[30-Jul-2022 05:38:27 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/restaurant.png
+[30-Jul-2022 05:38:27 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/restaurant.png
+[30-Jul-2022 05:38:27 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/restaurant.png","id":0}
+[30-Jul-2022 05:38:27 UTC] restaurant.png
+[30-Jul-2022 05:38:27 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/restaurant.png","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/restaurant.png","type":"image\/png","error":false}
+[30-Jul-2022 05:38:27 UTC] {"post_title":"restaurant.png","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/restaurant.png"}
+[30-Jul-2022 05:38:27 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/restaurant.png
+[30-Jul-2022 05:38:27 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/room-service.png
+[30-Jul-2022 05:38:27 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/room-service.png
+[30-Jul-2022 05:38:27 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/room-service.png","id":0}
+[30-Jul-2022 05:38:27 UTC] room-service.png
+[30-Jul-2022 05:38:27 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/room-service.png","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/room-service.png","type":"image\/png","error":false}
+[30-Jul-2022 05:38:27 UTC] {"post_title":"room-service.png","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/room-service.png"}
+[30-Jul-2022 05:38:27 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/room-service.png
+[30-Jul-2022 05:38:27 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/reception.png
+[30-Jul-2022 05:38:27 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/reception.png
+[30-Jul-2022 05:38:27 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/reception.png","id":0}
+[30-Jul-2022 05:38:28 UTC] reception.png
+[30-Jul-2022 05:38:28 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/reception.png","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/reception.png","type":"image\/png","error":false}
+[30-Jul-2022 05:38:28 UTC] {"post_title":"reception.png","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/reception.png"}
+[30-Jul-2022 05:38:28 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/reception.png
+[30-Jul-2022 05:38:28 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/car-rental.png
+[30-Jul-2022 05:38:28 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/car-rental.png
+[30-Jul-2022 05:38:28 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/car-rental.png","id":0}
+[30-Jul-2022 05:38:28 UTC] car-rental.png
+[30-Jul-2022 05:38:28 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/car-rental.png","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/car-rental.png","type":"image\/png","error":false}
+[30-Jul-2022 05:38:28 UTC] {"post_title":"car-rental.png","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/car-rental.png"}
+[30-Jul-2022 05:38:28 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/car-rental.png
+[30-Jul-2022 05:38:28 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/hair-dryer.png
+[30-Jul-2022 05:38:28 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/hair-dryer.png
+[30-Jul-2022 05:38:28 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/hair-dryer.png","id":0}
+[30-Jul-2022 05:38:28 UTC] hair-dryer.png
+[30-Jul-2022 05:38:28 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hair-dryer.png","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hair-dryer.png","type":"image\/png","error":false}
+[30-Jul-2022 05:38:28 UTC] {"post_title":"hair-dryer.png","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hair-dryer.png"}
+[30-Jul-2022 05:38:28 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/hair-dryer.png
+[30-Jul-2022 05:38:28 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/wifi.png
+[30-Jul-2022 05:38:28 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/wifi.png
+[30-Jul-2022 05:38:28 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/wifi.png","id":0}
+[30-Jul-2022 05:38:28 UTC] wifi.png
+[30-Jul-2022 05:38:28 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/wifi.png","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/wifi.png","type":"image\/png","error":false}
+[30-Jul-2022 05:38:28 UTC] {"post_title":"wifi.png","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/wifi.png"}
+[30-Jul-2022 05:38:28 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/wifi.png
+[30-Jul-2022 05:38:28 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/hotel-linens.jpg
+[30-Jul-2022 05:38:28 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/hotel-linens.jpg
+[30-Jul-2022 05:38:28 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/hotel-linens.jpg","id":0}
+[30-Jul-2022 05:38:29 UTC] hotel-linens.jpg
+[30-Jul-2022 05:38:29 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-linens.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-linens.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:29 UTC] {"post_title":"hotel-linens.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-linens.jpg"}
+[30-Jul-2022 05:38:29 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/hotel-linens.jpg
+[30-Jul-2022 05:38:29 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/toileteries-free-img.jpg
+[30-Jul-2022 05:38:29 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/toileteries-free-img.jpg
+[30-Jul-2022 05:38:29 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/toileteries-free-img.jpg","id":0}
+[30-Jul-2022 05:38:29 UTC] toileteries-free-img.jpg
+[30-Jul-2022 05:38:29 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/toileteries-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/toileteries-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:29 UTC] {"post_title":"toileteries-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/toileteries-free-img.jpg"}
+[30-Jul-2022 05:38:30 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/toileteries-free-img.jpg
+[30-Jul-2022 05:38:30 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/breakfast-free-img.jpg
+[30-Jul-2022 05:38:30 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/breakfast-free-img.jpg
+[30-Jul-2022 05:38:30 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/breakfast-free-img.jpg","id":0}
+[30-Jul-2022 05:38:30 UTC] breakfast-free-img.jpg
+[30-Jul-2022 05:38:30 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/breakfast-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/breakfast-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:30 UTC] {"post_title":"breakfast-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/breakfast-free-img.jpg"}
+[30-Jul-2022 05:38:30 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/breakfast-free-img.jpg
+[30-Jul-2022 05:38:30 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/swimming-pool-free-img.jpg
+[30-Jul-2022 05:38:30 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/swimming-pool-free-img.jpg
+[30-Jul-2022 05:38:30 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/swimming-pool-free-img.jpg","id":0}
+[30-Jul-2022 05:38:30 UTC] swimming-pool-free-img.jpg
+[30-Jul-2022 05:38:30 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/swimming-pool-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/swimming-pool-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:30 UTC] {"post_title":"swimming-pool-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/swimming-pool-free-img.jpg"}
+[30-Jul-2022 05:38:30 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/swimming-pool-free-img.jpg
+[30-Jul-2022 05:38:30 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/hotel-massage.jpg
+[30-Jul-2022 05:38:30 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/hotel-massage.jpg
+[30-Jul-2022 05:38:30 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/hotel-massage.jpg","id":0}
+[30-Jul-2022 05:38:31 UTC] hotel-massage.jpg
+[30-Jul-2022 05:38:31 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-massage.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-massage.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:31 UTC] {"post_title":"hotel-massage.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-massage.jpg"}
+[30-Jul-2022 05:38:31 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/hotel-massage.jpg
+[30-Jul-2022 05:38:31 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/hotel-meal.jpg
+[30-Jul-2022 05:38:31 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/hotel-meal.jpg
+[30-Jul-2022 05:38:31 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/hotel-meal.jpg","id":0}
+[30-Jul-2022 05:38:32 UTC] hotel-meal.jpg
+[30-Jul-2022 05:38:32 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-meal.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-meal.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:32 UTC] {"post_title":"hotel-meal.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-meal.jpg"}
+[30-Jul-2022 05:38:32 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/hotel-meal.jpg
+[30-Jul-2022 05:38:32 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/bar-free-img.jpg
+[30-Jul-2022 05:38:32 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/bar-free-img.jpg
+[30-Jul-2022 05:38:32 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/bar-free-img.jpg","id":0}
+[30-Jul-2022 05:38:32 UTC] bar-free-img.jpg
+[30-Jul-2022 05:38:32 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/bar-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/bar-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:32 UTC] {"post_title":"bar-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/bar-free-img.jpg"}
+[30-Jul-2022 05:38:32 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/bar-free-img.jpg
+[30-Jul-2022 05:38:32 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/banquet-free-img.jpg
+[30-Jul-2022 05:38:32 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/banquet-free-img.jpg
+[30-Jul-2022 05:38:32 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/banquet-free-img.jpg","id":0}
+[30-Jul-2022 05:38:33 UTC] banquet-free-img.jpg
+[30-Jul-2022 05:38:33 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/banquet-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/banquet-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:33 UTC] {"post_title":"banquet-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/banquet-free-img.jpg"}
+[30-Jul-2022 05:38:33 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/banquet-free-img.jpg
+[30-Jul-2022 05:38:33 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/cta-bg-free-img.jpg
+[30-Jul-2022 05:38:33 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/06/cta-bg-free-img.jpg
+[30-Jul-2022 05:38:33 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/06\/cta-bg-free-img.jpg","id":0}
+[30-Jul-2022 05:38:33 UTC] cta-bg-free-img.jpg
+[30-Jul-2022 05:38:33 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/cta-bg-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/cta-bg-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:33 UTC] {"post_title":"cta-bg-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/cta-bg-free-img.jpg"}
+[30-Jul-2022 05:38:34 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/cta-bg-free-img.jpg
+[30-Jul-2022 05:38:34 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/slide1-free-img.jpg
+[30-Jul-2022 05:38:34 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/slide1-free-img.jpg
+[30-Jul-2022 05:38:34 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/08\/slide1-free-img.jpg","id":0}
+[30-Jul-2022 05:38:34 UTC] slide1-free-img.jpg
+[30-Jul-2022 05:38:34 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide1-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide1-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:34 UTC] {"post_title":"slide1-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide1-free-img.jpg"}
+[30-Jul-2022 05:38:34 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/slide1-free-img.jpg
+[30-Jul-2022 05:38:34 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/slide2-free-img.jpg
+[30-Jul-2022 05:38:34 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/slide2-free-img.jpg
+[30-Jul-2022 05:38:34 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/08\/slide2-free-img.jpg","id":0}
+[30-Jul-2022 05:38:35 UTC] slide2-free-img.jpg
+[30-Jul-2022 05:38:35 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide2-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide2-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:35 UTC] {"post_title":"slide2-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide2-free-img.jpg"}
+[30-Jul-2022 05:38:35 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/slide2-free-img.jpg
+[30-Jul-2022 05:38:35 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/slide3-free-img.jpg
+[30-Jul-2022 05:38:35 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/slide3-free-img.jpg
+[30-Jul-2022 05:38:35 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/08\/slide3-free-img.jpg","id":0}
+[30-Jul-2022 05:38:35 UTC] slide3-free-img.jpg
+[30-Jul-2022 05:38:35 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide3-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide3-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:35 UTC] {"post_title":"slide3-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide3-free-img.jpg"}
+[30-Jul-2022 05:38:35 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/slide3-free-img.jpg
+[30-Jul-2022 05:38:35 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/slide5-free-img.jpg
+[30-Jul-2022 05:38:35 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/slide5-free-img.jpg
+[30-Jul-2022 05:38:35 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/08\/slide5-free-img.jpg","id":0}
+[30-Jul-2022 05:38:35 UTC] slide5-free-img.jpg
+[30-Jul-2022 05:38:35 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide5-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide5-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:35 UTC] {"post_title":"slide5-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/slide5-free-img.jpg"}
+[30-Jul-2022 05:38:35 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/slide5-free-img.jpg
+[30-Jul-2022 05:38:35 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/hotel-cooking.jpg
+[30-Jul-2022 05:38:35 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/hotel-cooking.jpg
+[30-Jul-2022 05:38:35 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/08\/hotel-cooking.jpg","id":0}
+[30-Jul-2022 05:38:36 UTC] hotel-cooking.jpg
+[30-Jul-2022 05:38:36 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-cooking.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-cooking.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:36 UTC] {"post_title":"hotel-cooking.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-cooking.jpg"}
+[30-Jul-2022 05:38:36 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/hotel-cooking.jpg
+[30-Jul-2022 05:38:36 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/hotel-dish.jpg
+[30-Jul-2022 05:38:36 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/hotel-dish.jpg
+[30-Jul-2022 05:38:36 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/08\/hotel-dish.jpg","id":0}
+[30-Jul-2022 05:38:37 UTC] hotel-dish.jpg
+[30-Jul-2022 05:38:37 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-dish.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-dish.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:37 UTC] {"post_title":"hotel-dish.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-dish.jpg"}
+[30-Jul-2022 05:38:37 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/hotel-dish.jpg
+[30-Jul-2022 05:38:37 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/hotel-glasses.jpg
+[30-Jul-2022 05:38:37 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/hotel-glasses.jpg
+[30-Jul-2022 05:38:37 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/08\/hotel-glasses.jpg","id":0}
+[30-Jul-2022 05:38:37 UTC] hotel-glasses.jpg
+[30-Jul-2022 05:38:37 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-glasses.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-glasses.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:37 UTC] {"post_title":"hotel-glasses.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-glasses.jpg"}
+[30-Jul-2022 05:38:37 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/hotel-glasses.jpg
+[30-Jul-2022 05:38:37 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/hotel-single-room.jpg
+[30-Jul-2022 05:38:37 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/hotel-single-room.jpg
+[30-Jul-2022 05:38:37 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/08\/hotel-single-room.jpg","id":0}
+[30-Jul-2022 05:38:38 UTC] hotel-single-room.jpg
+[30-Jul-2022 05:38:38 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-single-room.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-single-room.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:38 UTC] {"post_title":"hotel-single-room.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/hotel-single-room.jpg"}
+[30-Jul-2022 05:38:38 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/hotel-single-room.jpg
+[30-Jul-2022 05:38:38 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2021/03/facilities-1.jpg
+[30-Jul-2022 05:38:38 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2021/03/facilities-1.jpg
+[30-Jul-2022 05:38:38 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2021\/03\/facilities-1.jpg","id":0}
+[30-Jul-2022 05:38:38 UTC] facilities-1.jpg
+[30-Jul-2022 05:38:38 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/facilities-1.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/facilities-1.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:38 UTC] {"post_title":"facilities-1.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/facilities-1.jpg"}
+[30-Jul-2022 05:38:38 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/facilities-1.jpg
+[30-Jul-2022 05:38:38 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/executive-suite-free-img.jpg
+[30-Jul-2022 05:38:38 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/executive-suite-free-img.jpg
+[30-Jul-2022 05:38:38 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/08\/executive-suite-free-img.jpg","id":0}
+[30-Jul-2022 05:38:38 UTC] executive-suite-free-img.jpg
+[30-Jul-2022 05:38:38 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/executive-suite-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/executive-suite-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:38 UTC] {"post_title":"executive-suite-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/executive-suite-free-img.jpg"}
+[30-Jul-2022 05:38:38 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/executive-suite-free-img.jpg
+[30-Jul-2022 05:38:38 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/double-room-free-img.jpg
+[30-Jul-2022 05:38:38 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/double-room-free-img.jpg
+[30-Jul-2022 05:38:38 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/08\/double-room-free-img.jpg","id":0}
+[30-Jul-2022 05:38:39 UTC] double-room-free-img.jpg
+[30-Jul-2022 05:38:39 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/double-room-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/double-room-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:39 UTC] {"post_title":"double-room-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/double-room-free-img.jpg"}
+[30-Jul-2022 05:38:39 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/double-room-free-img.jpg
+[30-Jul-2022 05:38:39 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2021/03/facilities-2.jpg
+[30-Jul-2022 05:38:39 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2021/03/facilities-2.jpg
+[30-Jul-2022 05:38:39 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2021\/03\/facilities-2.jpg","id":0}
+[30-Jul-2022 05:38:39 UTC] facilities-2.jpg
+[30-Jul-2022 05:38:39 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/facilities-2.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/facilities-2.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:39 UTC] {"post_title":"facilities-2.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/facilities-2.jpg"}
+[30-Jul-2022 05:38:39 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/facilities-2.jpg
+[30-Jul-2022 05:38:39 UTC] Source - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/duplex-suite-free-img.jpg
+[30-Jul-2022 05:38:39 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/hotel-08/wp-content/uploads/sites/612/2020/08/duplex-suite-free-img.jpg
+[30-Jul-2022 05:38:39 UTC] Log - {"url":"https:\/\/websitedemos.net\/hotel-08\/wp-content\/uploads\/sites\/612\/2020\/08\/duplex-suite-free-img.jpg","id":0}
+[30-Jul-2022 05:38:39 UTC] duplex-suite-free-img.jpg
+[30-Jul-2022 05:38:39 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/duplex-suite-free-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/duplex-suite-free-img.jpg","type":"image\/jpeg","error":false}
+[30-Jul-2022 05:38:39 UTC] {"post_title":"duplex-suite-free-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/07\/duplex-suite-free-img.jpg"}
+[30-Jul-2022 05:38:40 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/07/duplex-suite-free-img.jpg
+[03-Aug-2022 01:39:27 UTC] Source - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-owner-avatar-img.jpg
+[03-Aug-2022 01:39:27 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-owner-avatar-img.jpg
+[03-Aug-2022 01:39:27 UTC] Log - {"url":"https:\/\/websitedemos.net\/plant-shop-08\/wp-content\/uploads\/sites\/964\/2021\/08\/plants-store-owner-avatar-img.jpg","id":0}
+[03-Aug-2022 01:39:27 UTC] plants-store-owner-avatar-img.jpg
+[03-Aug-2022 01:39:27 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-owner-avatar-img.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-owner-avatar-img.jpg","type":"image\/jpeg","error":false}
+[03-Aug-2022 01:39:27 UTC] {"post_title":"plants-store-owner-avatar-img.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-owner-avatar-img.jpg"}
+[03-Aug-2022 01:39:27 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/08/plants-store-owner-avatar-img.jpg
+[03-Aug-2022 01:39:27 UTC] Source - https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-store-gallery-img-6.jpg
+[03-Aug-2022 01:39:27 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/plants-store-gallery-img-6.jpg
+[03-Aug-2022 01:39:27 UTC] Log - {"url":"https:\/\/websitedemos.net\/plant-shop-02\/wp-content\/uploads\/sites\/931\/2021\/08\/plants-store-gallery-img-6.jpg","id":0}
+[03-Aug-2022 01:39:28 UTC] plants-store-gallery-img-6.jpg
+[03-Aug-2022 01:39:28 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-6.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-6.jpg","type":"image\/jpeg","error":false}
+[03-Aug-2022 01:39:28 UTC] {"post_title":"plants-store-gallery-img-6.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-6.jpg"}
+[03-Aug-2022 01:39:28 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/08/plants-store-gallery-img-6.jpg
+[03-Aug-2022 01:39:28 UTC] Source - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-6.jpg
+[03-Aug-2022 01:39:28 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-6.jpg
+[03-Aug-2022 01:39:28 UTC] Log - {"id":"858","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-6.jpg"}
+[03-Aug-2022 01:39:28 UTC] Source - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-1.jpg
+[03-Aug-2022 01:39:28 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-1.jpg
+[03-Aug-2022 01:39:28 UTC] Log - {"url":"https:\/\/websitedemos.net\/plant-shop-08\/wp-content\/uploads\/sites\/964\/2021\/08\/plants-store-gallery-img-1.jpg","id":0}
+[03-Aug-2022 01:39:28 UTC] plants-store-gallery-img-1.jpg
+[03-Aug-2022 01:39:28 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-1.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-1.jpg","type":"image\/jpeg","error":false}
+[03-Aug-2022 01:39:28 UTC] {"post_title":"plants-store-gallery-img-1.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-1.jpg"}
+[03-Aug-2022 01:39:28 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/08/plants-store-gallery-img-1.jpg
+[03-Aug-2022 01:39:28 UTC] Source - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-2.jpg
+[03-Aug-2022 01:39:28 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-2.jpg
+[03-Aug-2022 01:39:28 UTC] Log - {"url":"https:\/\/websitedemos.net\/plant-shop-08\/wp-content\/uploads\/sites\/964\/2021\/08\/plants-store-gallery-img-2.jpg","id":0}
+[03-Aug-2022 01:39:29 UTC] plants-store-gallery-img-2.jpg
+[03-Aug-2022 01:39:29 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-2.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-2.jpg","type":"image\/jpeg","error":false}
+[03-Aug-2022 01:39:29 UTC] {"post_title":"plants-store-gallery-img-2.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-2.jpg"}
+[03-Aug-2022 01:39:29 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/08/plants-store-gallery-img-2.jpg
+[03-Aug-2022 01:39:29 UTC] Source - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-3.jpg
+[03-Aug-2022 01:39:29 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-3.jpg
+[03-Aug-2022 01:39:29 UTC] Log - {"url":"https:\/\/websitedemos.net\/plant-shop-08\/wp-content\/uploads\/sites\/964\/2021\/08\/plants-store-gallery-img-3.jpg","id":0}
+[03-Aug-2022 01:39:29 UTC] plants-store-gallery-img-3.jpg
+[03-Aug-2022 01:39:29 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-3.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-3.jpg","type":"image\/jpeg","error":false}
+[03-Aug-2022 01:39:29 UTC] {"post_title":"plants-store-gallery-img-3.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-3.jpg"}
+[03-Aug-2022 01:39:29 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/08/plants-store-gallery-img-3.jpg
+[03-Aug-2022 01:39:29 UTC] Source - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-4.jpg
+[03-Aug-2022 01:39:29 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-4.jpg
+[03-Aug-2022 01:39:29 UTC] Log - {"url":"https:\/\/websitedemos.net\/plant-shop-08\/wp-content\/uploads\/sites\/964\/2021\/08\/plants-store-gallery-img-4.jpg","id":0}
+[03-Aug-2022 01:39:30 UTC] plants-store-gallery-img-4.jpg
+[03-Aug-2022 01:39:30 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-4.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-4.jpg","type":"image\/jpeg","error":false}
+[03-Aug-2022 01:39:30 UTC] {"post_title":"plants-store-gallery-img-4.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-4.jpg"}
+[03-Aug-2022 01:39:30 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/08/plants-store-gallery-img-4.jpg
+[03-Aug-2022 01:39:30 UTC] Source - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-5.jpg
+[03-Aug-2022 01:39:30 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/plant-shop-08/wp-content/uploads/sites/964/2021/08/plants-store-gallery-img-5.jpg
+[03-Aug-2022 01:39:30 UTC] Log - {"url":"https:\/\/websitedemos.net\/plant-shop-08\/wp-content\/uploads\/sites\/964\/2021\/08\/plants-store-gallery-img-5.jpg","id":0}
+[03-Aug-2022 01:39:30 UTC] plants-store-gallery-img-5.jpg
+[03-Aug-2022 01:39:30 UTC] {"file":"\/home\/enzefvrg\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-5.jpg","url":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-5.jpg","type":"image\/jpeg","error":false}
+[03-Aug-2022 01:39:30 UTC] {"post_title":"plants-store-gallery-img-5.jpg","guid":"https:\/\/nzpinnacle.com\/wp-content\/uploads\/2022\/08\/plants-store-gallery-img-5.jpg"}
+[03-Aug-2022 01:39:30 UTC] BATCH - SUCCESS Image {Imported} - https://nzpinnacle.com/wp-content/uploads/2022/08/plants-store-gallery-img-5.jpg
